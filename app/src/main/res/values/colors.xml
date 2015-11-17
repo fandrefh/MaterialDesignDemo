@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores do Tema -->
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#26A69A</color>
+
+    <!-- Cores da Aplicação -->
+    <color name="corTextView">#004D40</color>
+    <color name="corTextButton">#FFF</color>
+</resources>

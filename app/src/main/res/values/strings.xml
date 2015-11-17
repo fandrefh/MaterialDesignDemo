@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Material Design Demo</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings da Aplicação -->
+    <string name="nome">Nome</string>
+    <string name="endereco">Endereço</string>
+    <string name="bairro">Bairro</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="sexo_masculino">Masculino</string>
+    <string name="sexo_feminino">Feminino</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
