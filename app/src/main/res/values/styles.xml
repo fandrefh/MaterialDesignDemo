@@ -36,7 +36,8 @@
         <item name="android:background">@color/corTextView</item>
         <item name="android:textSize">@dimen/tamanhoFonteTextView</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:capitalize">none</item>
+        <item name="android:textColor">@color/corTextButton</item>
+        <item name="android:textAllCaps">false</item>
     </style>
 
 </resources>
